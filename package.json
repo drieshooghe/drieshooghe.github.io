@@ -1,0 +1,21 @@
+{
+	"name": "drieshooghe.com",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"export": "npm run build && next export && touch ./out/.nojekyll",
+		"deploy": "git subtree push --prefix out origin master"
+	},
+	"dependencies": {
+		"next": "9.1.4",
+		"react": "16.12.0",
+		"react-dom": "16.12.0"
+	},
+	"devDependencies": {
+		"@types/react": "^16.9.15",
+		"typescript": "^3.7.3"
+	}
+}
