@@ -6,7 +6,7 @@
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start",
-		"export": "npm run build && next export && touch ./out/.nojekyll",
+		"export": "npm run build && next export && touch ./out/.nojekyll && cp ./CNAME ./out/CNAME",
 		"deploy": "git subtree push --prefix out origin master"
 	},
 	"dependencies": {
