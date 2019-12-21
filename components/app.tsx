@@ -10,7 +10,7 @@ class App extends Component {
 		return <div>
 			<Head>
 				<title>Dries Hooghe</title>
-				<link href="https://fonts.googleapis.com/css?family=Kulim+Park|Long+Cang&display=swap" rel="stylesheet"></link>
+				<link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet"></link>
 				<link rel="stylesheet" href="/_next/static/css/styles.chunk.css"/>
 			</Head>
 			<div className='app'>

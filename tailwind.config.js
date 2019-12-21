@@ -9,7 +9,7 @@ module.exports = {
 				'willow-green': '#A5CC82'
 			},
 			fontFamily: {
-				'display': ['Long Cang', 'cursive'],
+				'display': ['Raleway', 'sans-serif'],
 				'body': ['Kulim Park', 'sans-serif'],
 			},
 			fontSize: {

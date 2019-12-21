@@ -69,7 +69,7 @@ function (_Component) {
         },
         __self: this
       }, "Dries Hooghe"), __jsx("link", {
-        href: "https://fonts.googleapis.com/css?family=Kulim+Park|Long+Cang&display=swap",
+        href: "https://fonts.googleapis.com/css?family=Raleway&display=swap",
         rel: "stylesheet",
         __source: {
           fileName: _jsxFileName,
@@ -117,6 +117,7 @@ function (_Component) {
   return App;
 }(react__WEBPACK_IMPORTED_MODULE_5__["Component"]);
 
+console.log("Test");
 /* harmony default export */ __webpack_exports__["default"] = (App);
 
 /***/ }),
@@ -169,14 +170,14 @@ function (_Component) {
         },
         __self: this
       }, __jsx("div", {
-        className: "flex justify-center mb-2 md:mr-2 md:mb-0",
+        className: "flex justify-center mb-4 md:mr-2 md:mb-0",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 6
         },
         __self: this
       }, __jsx("a", {
-        className: "trans text-center block w-40 md:w-auto border border-white rounded-full py-2 px-4 hover:shadow-2xl text-white",
+        className: "trans text-center block w-40 md:w-auto border-2 border-white rounded-full py-2 px-4 hover:shadow-2xl text-white",
         href: "https://github.com/drieshooghe",
         target: "_blank",
         __source: {
@@ -185,14 +186,14 @@ function (_Component) {
         },
         __self: this
       }, "Github")), __jsx("div", {
-        className: "flex justify-center mb-2 md:mr-2 md:mb-0",
+        className: "flex justify-center mb-4 md:mr-2 md:mb-0",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 9
         },
         __self: this
       }, __jsx("a", {
-        className: "trans text-center block w-40 md:w-auto border border-white rounded-full py-2 px-4 hover:shadow-2xl text-white",
+        className: "trans text-center block w-40 md:w-auto border-2 border-white rounded-full py-2 px-4 hover:shadow-2xl text-white",
         href: "https://be.linkedin.com/in/drieshooghe",
         target: "_blank",
         __source: {
