@@ -1,11 +1,12 @@
 import '../style/style.css';
 import { Component } from 'react';
 import Head from 'next/head';
-import PageTitle from "./page-title";
-import NavBar from "./navbar";
+import PageTitle from './page-title';
+import NavBar from './navbar';
 
 
 class App extends Component {
+
 	render() {
 		return <div>
 			<Head>
